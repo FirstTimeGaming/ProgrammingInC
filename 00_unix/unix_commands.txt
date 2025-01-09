@@ -1,0 +1,7 @@
+mkdir <name>        - Creates a directory with name <name>
+ls                  - Lists all files in the current directory
+cd <directory>      - Moves current directory to a directory with name <directory>
+code <.filename>    - Opens Visual Studio Code Editor using given filename <filename>, if file does not exist, it is created
+pwd                 - Prints working directory
+clear               - Clears the terminal
+gcc <filename>      - Runs the GNU C Compiler with a given C file
