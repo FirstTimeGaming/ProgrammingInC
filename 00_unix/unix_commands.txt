@@ -5,3 +5,4 @@ code <.filename>    - Opens Visual Studio Code Editor using given filename <file
 pwd                 - Prints working directory
 clear               - Clears the terminal
 gcc <filename>      - Runs the GNU C Compiler with a given C file
+./<filename>        - Runs the input file

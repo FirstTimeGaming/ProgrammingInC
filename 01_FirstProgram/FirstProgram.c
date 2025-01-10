@@ -18,6 +18,7 @@ int main(int argc, char const *argv[]) {
 
     // Call the printf function
 
-    printf("Welcome to COP2271");
+    printf("Welcome\nto\nCOP2271\n\n");
+    printf("I\nwant\nto\ncode\n");
     return 0;
 }
