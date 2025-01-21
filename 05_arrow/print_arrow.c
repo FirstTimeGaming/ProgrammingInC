@@ -7,9 +7,9 @@ int main() {
     char arrow_head;
 
     // get the arrow body and head from the user
-    puts("Enter the arrow body character: ");
+    //puts("Enter the arrow body character: ");
     scanf("%c", &arrow_body);
-    puts("Enter the arrow head character: ");
+    //puts("Enter the arrow head character: ");
     scanf(" %c", &arrow_head);
 
     // print the arrow
